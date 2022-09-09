@@ -1,0 +1,6 @@
+name: CowShear
+version: '${project.version}'
+main: com.mrmister.cowshear.CowShear
+api-version: 1.19
+authors: [ mrmister ]
+description: shear cow for leather
